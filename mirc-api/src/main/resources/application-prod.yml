@@ -9,9 +9,9 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSourceC3P0Adapter
   redis:
     database: 1 #数据库索引默认第0个
-    host: 120.78.92.204
+    host: 
     port: 6379
-    password: tang1234
+    password: 
     pool:
       max-active: 1000 #连接池最大连接数
       max-wait: -1  #最大阻塞等待时间（负数没限制）
