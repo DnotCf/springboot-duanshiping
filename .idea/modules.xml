@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mirc-api/mirc-api.iml" filepath="$PROJECT_DIR$/mirc-api/mirc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mirc-common/mirc-common.iml" filepath="$PROJECT_DIR$/mirc-common/mirc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mirc-mapper/mirc-mapper.iml" filepath="$PROJECT_DIR$/mirc-mapper/mirc-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mirc-pojo/mirc-pojo.iml" filepath="$PROJECT_DIR$/mirc-pojo/mirc-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mirc-service/mirc-service.iml" filepath="$PROJECT_DIR$/mirc-service/mirc-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircvedio.iml" filepath="$PROJECT_DIR$/mircvedio.iml" />
+    </modules>
+  </component>
+</project>

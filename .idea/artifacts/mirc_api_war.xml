@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mirc-api:war">
+    <output-path>$PROJECT_DIR$/mirc-api/target</output-path>
+    <root id="archive" name="mirc-api-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mirc-api:war exploded" />
+    </root>
+  </artifact>
+</component>

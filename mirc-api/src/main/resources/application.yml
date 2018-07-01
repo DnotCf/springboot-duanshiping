@@ -1,0 +1,25 @@
+
+
+server:
+
+  tomcat:
+    max-threads: 30
+    uri-encoding: utf-8
+  port: 8081
+
+spring:
+  profiles:
+    active: prod
+
+  devtools:
+    restart:
+      enable: true  #热部署生效
+      additonal-paths: src/main/java
+      exclude: static/**
+
+
+mybatis:
+  type-aliases-package: com.tang.pojo
+  mapper-locations: classpath:mapper/*.xml
+
+
